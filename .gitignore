@@ -7,7 +7,6 @@
 *~
 
 # Rendered output
-*.html
 _site/
 
 # Quarto
