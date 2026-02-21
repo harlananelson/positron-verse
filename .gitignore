@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Rendered output
+*.html
+_site/
+
+# Quarto
+.quarto/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Secrets
+.env
